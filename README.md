@@ -5,7 +5,7 @@ The Hospitality Revenue Dashboard is a Power BI-based analytics solution designe
 
 
 ## Live Dashboard Link
-[Click Here To See Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWRkNWIyMGUtMzljNS00YTRjLTg5ZDItZGQ4MzFkNDU4ODM5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Click Here To See Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTY1ZDg0ZDgtYjIwMS00MTRiLWE0NzQtMTU4ZGQzMzliN2Y2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Key Features
 1. Revenue Performance Tracking
